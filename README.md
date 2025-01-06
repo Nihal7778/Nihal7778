@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="https://www.linkedin.com/in/Nihal7778" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Nihal Mallikarjun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nihal778" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Nihal Mallikarjun" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
