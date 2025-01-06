@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nihal7778" alt="Nihal7778" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nihal7778/](https://github.com/Nihal7778/)
-- My Portfolio site: https://Nihal7778.github.io/W_site/
+- My Portfolio site: https://nihal7778.github.io/Nihal_Portfolio/
 
 - 📫 How to reach me **mallikarjun.n@northeastern.edu**
 
