@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Mallikarjun </h1>
-<h3> Welcome to my GitHub profile! I'm currently pursuing a Master's in Data Analytics Engineering at Northeastern University, specializing in Cloud, Data Analytics & Visualization, and Engineering with CI/CD/CL.I am passionate about leveraging cloud technologies and advanced analytics to drive data-driven decision-making and streamline engineering processes.</h3>
+<h3> Welcome to my GitHub profile! I'm a recent graduate student in Master's in Data Analytics Engineering at Northeastern University, specializing in Cloud, Data Analytics & Visualization, and Engineering with CI/CD/CL.I am passionate about leveraging cloud technologies and advanced analytics to drive data-driven decision-making and streamline engineering processes.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihal7778&label=Profile%20views&color=0e75b6&style=flat" alt="Nihal7778" /> </p>
